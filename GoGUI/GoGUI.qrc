@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="GoGUI">
+    <file>images/radio_notok.png</file>
+    <file>images/radio_ok.png</file>
+  </qresource>
+</RCC>
